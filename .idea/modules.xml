@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FXThread.iml" filepath="$PROJECT_DIR$/FXThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservableCollections.iml" filepath="$PROJECT_DIR$/ObservableCollections.iml" />
     </modules>
   </component>
 </project>
